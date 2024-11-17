@@ -16,7 +16,7 @@ def index() -> rx.Component:
     # Welcome Page (Index)
     return rx.fragment(
         navbar(),
-        presentation()
+        presentation(),
     )
 
 

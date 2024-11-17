@@ -69,6 +69,12 @@ def presentation() -> rx.Component:
             width="auto"
         ),
         bg="#000000",
-        width="auto"
+        width="auto",
+        padding_x="7em"
 
     )
+
+
+# ]Eskjbdfv brwiuoghbefvhberpñsbrv
+#
+# ++-*/78543131l
